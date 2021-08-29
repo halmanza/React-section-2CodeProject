@@ -1,4 +1,4 @@
-# week 2 Coding Project
+# Week 2 Coding Project
 
 ---
 
@@ -6,7 +6,7 @@
 
 *1.	Using what you’ve learned this week, create a page of an application that enables users to vote and leave reviews on movies.*
 
-*you should include at least the following components:* 
+*You should include at least the following components:* 
 
 1. 	**MovieList** – a container for all the Movie components and their data.
 2.	**Movie** – a component that represents movie data (i.e. image, synopsis, rating, etc…)
